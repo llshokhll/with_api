@@ -1,0 +1,2117 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2022-07-11T13:03:13-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Does Public Art Have an Afterlife?",
+      "abstract": "Public artworks have the power to uplift a city. Sometimes they end up in a museum, but other times in a dumpster.",
+      "url": "https://www.nytimes.com/2022/07/11/arts/design/public-art-afterlife.html",
+      "uri": "nyt://article/d9db7a4a-8584-5a93-a47f-5812f0a02b96",
+      "byline": "By Zachary Small",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T11:13:23-04:00",
+      "created_date": "2022-07-11T08:45:52-04:00",
+      "published_date": "2022-07-11T08:45:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Monuments and Memorials (Structures)",
+        "Parks and Other Recreation Areas",
+        "Crowdfunding (Internet)"
+      ],
+      "org_facet": [
+        "Creative Time",
+        "Parks and Recreation Department (NYC)",
+        "Public Art Fund",
+        "Times Square Alliance"
+      ],
+      "per_facet": [
+        "Council, Pamela",
+        "Al-Hadid, Diana"
+      ],
+      "geo_facet": [
+        "Times Square and 42nd Street (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10public-art-destroy1/merlin_209721450_0c5290e2-4252-4c72-a55e-bd761f8956d2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pamela Council at a storage facility in Brooklyn, with the disassembled pieces from “A Fountain for Survivors,” a public artwork shown in Times Square last year. Council has raised money to buy time to find it a permanent home.",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10public-art-destroy1/merlin_209721450_0c5290e2-4252-4c72-a55e-bd761f8956d2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pamela Council at a storage facility in Brooklyn, with the disassembled pieces from “A Fountain for Survivors,” a public artwork shown in Times Square last year. Council has raised money to buy time to find it a permanent home.",
+          "copyright": "Vincent Tullo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10public-art-destroy1/merlin_209721450_0c5290e2-4252-4c72-a55e-bd761f8956d2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pamela Council at a storage facility in Brooklyn, with the disassembled pieces from “A Fountain for Survivors,” a public artwork shown in Times Square last year. Council has raised money to buy time to find it a permanent home.",
+          "copyright": "Vincent Tullo for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Rofdtw"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Review: Danai Gurira Makes a Sleek Supervillain of Richard III",
+      "abstract": "At Shakespeare in the Park, athletic stamina and action-hero charisma muddy the meaning of a play about disability.",
+      "url": "https://www.nytimes.com/2022/07/11/theater/richard-iii-review.html",
+      "uri": "nyt://article/718949dd-3a76-5494-9429-5fa4e389d795",
+      "byline": "By Jesse Green",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T12:47:01-04:00",
+      "created_date": "2022-07-11T11:00:08-04:00",
+      "published_date": "2022-07-11T11:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Richard III (Play)"
+      ],
+      "org_facet": [
+        "Delacorte Theater",
+        "Public Theater"
+      ],
+      "per_facet": [
+        "Shakespeare, William",
+        "O'Hara, Robert",
+        "Gurira, Danai"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11richard-III/merlin_209268642_0c8825a7-31bb-4b0d-af69-051e1fb01247-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Danai Gurira as Richard and Daniel J. Watts as a henchman in “Richard III.”",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11richard-III/merlin_209268642_0c8825a7-31bb-4b0d-af69-051e1fb01247-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Danai Gurira as Richard and Daniel J. Watts as a henchman in “Richard III.”",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11richard-III/11richard-III-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Danai Gurira as Richard and Daniel J. Watts as a henchman in “Richard III.”",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NYbMad"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "With Sign Language and Sound, an Artist Upends Audience Perceptions",
+      "abstract": "Christine Sun Kim’s poetic and political art pushes viewers to consider the limits, and misunderstandings, that come with communication in any language, whether spoken or signed.",
+      "url": "https://www.nytimes.com/2022/07/09/world/europe/christine-sun-kim-profile.html",
+      "uri": "nyt://article/ce4eb4c6-8041-5b07-8e4a-5c4c92511913",
+      "byline": "By Andrew Russeth",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T11:03:20-04:00",
+      "created_date": "2022-07-09T03:00:17-04:00",
+      "published_date": "2022-07-09T03:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "The Saturday Profile",
+      "des_facet": [
+        "Art",
+        "Deafness",
+        "Museums",
+        "Sign Language",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kim, Christine Sun"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/world/08Christine-Sun-Kim-Profile-top-02/merlin_209726649_21feadec-3fc9-4462-b0e3-e06523ea4863-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Christine Sun Kim, whose work challenges viewers to reconsider how they hear and perceive the world.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/world/08Christine-Sun-Kim-Profile-top-02/08Christine-Sun-Kim-Profile-top-02-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Christine Sun Kim, whose work challenges viewers to reconsider how they hear and perceive the world.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/world/08Christine-Sun-Kim-Profile-top-02/08Christine-Sun-Kim-Profile-top-02-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artist Christine Sun Kim, whose work challenges viewers to reconsider how they hear and perceive the world.",
+          "copyright": "Mark Abramson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nVUqQt"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Lea Michele to Star in ‘Funny Girl’ After Beanie Feldstein’s Departure",
+      "abstract": "The former “Glee” star will share the stage with Tovah Feldshuh, who will replace Jane Lynch as Fanny Brice’s mother, starting Sept. 6.",
+      "url": "https://www.nytimes.com/2022/07/11/theater/lea-michele-funny-girl.html",
+      "uri": "nyt://article/77bd6ef3-3b5e-58c9-a839-1f6a4913072c",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T13:15:55-04:00",
+      "created_date": "2022-07-11T13:00:08-04:00",
+      "published_date": "2022-07-11T13:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Funny Girl (Play)"
+      ],
+      "org_facet": [
+        "August Wilson Theater (Manhattan, NY)"
+      ],
+      "per_facet": [
+        "Feldshuh, Tovah",
+        "Feldstein, Beanie",
+        "Lynch, Jane",
+        "Michele, Lea",
+        "Murphy, Ryan",
+        "Julie Benko"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11funny-girl-1/11funny-girl-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1348,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lea Michele at the Tony Awards last month. She performed with members of the original cast of “Spring Awakening.” ",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11funny-girl-1/11funny-girl-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lea Michele at the Tony Awards last month. She performed with members of the original cast of “Spring Awakening.” ",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11funny-girl-1/11funny-girl-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lea Michele at the Tony Awards last month. She performed with members of the original cast of “Spring Awakening.” ",
+          "copyright": "Andrew Kelly/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RsojWo"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "‘Into the Woods’ Review: Do You Believe in Magic?",
+      "abstract": "The Encores! revival of this fairy-tale musical, with songs by Stephen Sondheim, arrives on Broadway with its humor, wonder and humanity intact.",
+      "url": "https://www.nytimes.com/2022/07/10/theater/into-the-woods-review.html",
+      "uri": "nyt://article/cfcacd2d-9d4b-5d81-b618-2c4aa0735baa",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T08:00:28-04:00",
+      "created_date": "2022-07-10T20:30:06-04:00",
+      "published_date": "2022-07-10T20:30:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s Pick",
+      "des_facet": [
+        "Theater",
+        "Into the Woods (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "deBessonet, Lear",
+        "Sondheim, Stephen",
+        "Bareilles, Sara",
+        "James, Brian D'Arcy",
+        "Creel, Gavin",
+        "Henry, Joshua",
+        "Soo, Phillipa",
+        "Miller, Patina"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10WOODS-1/merlin_209550702_c1fbc1e7-4ecc-4f18-84a4-18062c791202-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gavin Creel, left, as the Wolf and Julia Lester as Little Red Riding Hood in the musical “Into the Woods” at the St. James Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10WOODS-1/merlin_209550702_c1fbc1e7-4ecc-4f18-84a4-18062c791202-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gavin Creel, left, as the Wolf and Julia Lester as Little Red Riding Hood in the musical “Into the Woods” at the St. James Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10WOODS-1/merlin_209550702_c1fbc1e7-4ecc-4f18-84a4-18062c791202-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gavin Creel, left, as the Wolf and Julia Lester as Little Red Riding Hood in the musical “Into the Woods” at the St. James Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3c0FNZB"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "‘Paradise Square’ Will Close on Broadway After Winning One Tony",
+      "abstract": "The new musical was an unsuccessful comeback attempt by the storied producer Garth H. Drabinsky.",
+      "url": "https://www.nytimes.com/2022/07/11/theater/paradise-square-broadway-closing.html",
+      "uri": "nyt://article/73de97e5-dcb1-5ea2-9e08-8a919ded18f9",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T10:29:02-04:00",
+      "created_date": "2022-07-11T10:28:48-04:00",
+      "published_date": "2022-07-11T10:28:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tony Awards (Theater Awards)",
+        "Paradise Square (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Drabinsky, Garth H",
+        "Kalukango, Joaquina"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11paradise/11paradise-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joaquina Kalukango as Nelly O’Brien in “Paradise Square” at the Ethel Barrymore Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11paradise/11paradise-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joaquina Kalukango as Nelly O’Brien in “Paradise Square” at the Ethel Barrymore Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11paradise/11paradise-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joaquina Kalukango as Nelly O’Brien in “Paradise Square” at the Ethel Barrymore Theater.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RrWbmj"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "A Self-Taught Artist Takes His Roadside Acropolis North",
+      "abstract": "Outside the art establishment for decades, Charles Smith has sculpted his Black heroes in Aurora, Ill., and now in Hammond, La. At 81, he’s getting his first show in New York.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/design/charles-smith-louisiana-white-columns.html",
+      "uri": "nyt://article/9b8c424b-5229-5b30-bbf3-09d1283ae822",
+      "byline": "By Randy Kennedy",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T14:04:11-04:00",
+      "created_date": "2022-07-08T10:00:15-04:00",
+      "published_date": "2022-07-08T10:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Art",
+        "Sculpture",
+        "Black People"
+      ],
+      "org_facet": [
+        "White Columns (Manhattan, NY)",
+        "Kohler, John Michael, Arts Center"
+      ],
+      "per_facet": [
+        "Smith, Charles (1940- )"
+      ],
+      "geo_facet": [
+        "Aurora (Ill)",
+        "Hammond (La)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10CHARLES-SMITH1/10CHARLES-SMITH1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1639,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Charles Smith, visionary artist and creator of the African-American Heritage Museum and Black Veterans Archive, at his trailer-house studio in Hammond, La.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10CHARLES-SMITH1/10CHARLES-SMITH1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Charles Smith, visionary artist and creator of the African-American Heritage Museum and Black Veterans Archive, at his trailer-house studio in Hammond, La.",
+          "copyright": "Annie Flanagan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/arts/10CHARLES-SMITH1/10CHARLES-SMITH1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Charles Smith, visionary artist and creator of the African-American Heritage Museum and Black Veterans Archive, at his trailer-house studio in Hammond, La.",
+          "copyright": "Annie Flanagan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OMzG9P"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Bad Bunny’s ‘Un Verano Sin Ti’ Spends a Fourth Week at No. 1",
+      "abstract": "Since its release, the Puerto Rican superstar’s album has earned the equivalent of 1.4 million sales and picked up 1.9 billion streams in the United States alone.",
+      "url": "https://www.nytimes.com/2022/07/11/arts/music/bad-bunny-billboard-chart.html",
+      "uri": "nyt://article/5fe66dac-2148-5c93-9b52-fa2fef552c85",
+      "byline": "By Ben Sisario",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T09:46:45-04:00",
+      "created_date": "2022-07-11T09:46:45-04:00",
+      "published_date": "2022-07-11T09:46:45-04:00",
+      "material_type_facet": "",
+      "kicker": "The Charts",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "Un Verano Sin Ti (Album)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bad Bunny (Singer)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11billboard/11billboard-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Over its nine weeks on sale, the numbers for Bad Bunny’s “Un Verano Sin Ti” have gradually declined, but still remained higher than almost anything else on the chart.",
+          "copyright": "Ricardo Arduengo/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11billboard/11billboard-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Over its nine weeks on sale, the numbers for Bad Bunny’s “Un Verano Sin Ti” have gradually declined, but still remained higher than almost anything else on the chart.",
+          "copyright": "Ricardo Arduengo/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11billboard/11billboard-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Over its nine weeks on sale, the numbers for Bad Bunny’s “Un Verano Sin Ti” have gradually declined, but still remained higher than almost anything else on the chart.",
+          "copyright": "Ricardo Arduengo/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3P2GwZ4"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "What’s on TV This Week: ‘Everything’s Trash’ and ‘The Rehearsal’",
+      "abstract": "New shows from the idiosyncratic comedy creators Phoebe Robinson and Nathan Fielder debut on Freeform and HBO.",
+      "url": "https://www.nytimes.com/2022/07/11/arts/television/whats-on-tv-this-week-everythings-trash-and-the-rehearsal.html",
+      "uri": "nyt://article/3fc1e0da-4e41-505a-93ff-bb2a7877b7d1",
+      "byline": "By Gabe Cohn",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T01:00:08-04:00",
+      "created_date": "2022-07-11T01:00:08-04:00",
+      "published_date": "2022-07-11T01:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Movies",
+        "Chad (TV Program)",
+        "What We Do in the Shadows (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11tvcol-everythings-trash/11tvcol-everythings-trash-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Everything’s Trash,” Phoebe Robinson is a 30-something podcast host living a proudly chaotic life in Brooklyn.",
+          "copyright": "Giovanni Rufino/Freeform"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11tvcol-everythings-trash/11tvcol-everythings-trash-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Everything’s Trash,” Phoebe Robinson is a 30-something podcast host living a proudly chaotic life in Brooklyn.",
+          "copyright": "Giovanni Rufino/Freeform"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/11tvcol-everythings-trash/11tvcol-everythings-trash-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In “Everything’s Trash,” Phoebe Robinson is a 30-something podcast host living a proudly chaotic life in Brooklyn.",
+          "copyright": "Giovanni Rufino/Freeform"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NSb6mx"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Imagining an Exodus: ‘Ain’t No Mo’’ to Take Flight on Broadway",
+      "abstract": "The play, by Jordan E. Cooper, is a biting comedy set in an America that offers to relocate Black citizens to Africa.",
+      "url": "https://www.nytimes.com/2022/07/11/theater/aint-no-mo-broadway.html",
+      "uri": "nyt://article/a3312a69-6ae8-5df6-a44f-41a63b09c8bc",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T10:44:00-04:00",
+      "created_date": "2022-07-11T10:00:06-04:00",
+      "published_date": "2022-07-11T10:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Ain't No Mo' (Play)"
+      ],
+      "org_facet": [
+        "Belasco Theater"
+      ],
+      "per_facet": [
+        "Cooper, Jordan E",
+        "Daniels, Lee",
+        "Moreland, Brian"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11aint-no-mo-sub/11aint-no-mo-sub-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jordan E. Cooper as Peaches, a check-in agent for a flight bound for Africa, in Cooper’s play \"Ain't No Mo’.\"",
+          "copyright": "Joan Marcus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11aint-no-mo-sub/11aint-no-mo-sub-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jordan E. Cooper as Peaches, a check-in agent for a flight bound for Africa, in Cooper’s play \"Ain't No Mo’.\"",
+          "copyright": "Joan Marcus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/11aint-no-mo-sub/11aint-no-mo-sub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jordan E. Cooper as Peaches, a check-in agent for a flight bound for Africa, in Cooper’s play \"Ain't No Mo’.\"",
+          "copyright": "Joan Marcus"
+        }
+      ],
+      "short_url": "https://nyti.ms/3P5l0D2"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "A Glimpse Inside a Florentine Silk-Weaving Workshop",
+      "abstract": "The Antico Setificio Fiorentino, which relies on looms from the 18th and 19th centuries, has been producing precious textiles since 1786.",
+      "url": "https://www.nytimes.com/2022/07/11/travel/antique-florentine-silk-mill.html",
+      "uri": "nyt://article/715a24ce-aa06-5c70-9ea6-5f157562dd02",
+      "byline": "By Susan Wright",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T05:00:26-04:00",
+      "created_date": "2022-07-11T05:00:26-04:00",
+      "published_date": "2022-07-11T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Textiles",
+        "Silk and Silk Goods",
+        "Travel and Vacations"
+      ],
+      "org_facet": [
+        "Antico Setificio Fiorentino"
+      ],
+      "per_facet": [
+        "da Vinci, Leonardo"
+      ],
+      "geo_facet": [
+        "Florence (Italy)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/travel/11travel-italy-promo/merlin_209640333_a23094f3-194b-4bd5-bc46-f08169bc6b9f-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Susan Wright"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/travel/11travel-italy-promo/11travel-italy1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Susan Wright"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/travel/11travel-italy-promo/11travel-italy-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Susan Wright"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ObIipz"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Beanie Feldstein to Depart ‘Funny Girl’ Earlier Than Expected",
+      "abstract": "The actress announced on Instagram that she would be leaving the musical at the end of July, two months earlier than previously announced.",
+      "url": "https://www.nytimes.com/2022/07/10/theater/beanie-feldstein-funny-girl.html",
+      "uri": "nyt://article/85d771cf-d101-5268-a3d2-5089ad366841",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T20:24:28-04:00",
+      "created_date": "2022-07-10T20:24:28-04:00",
+      "published_date": "2022-07-10T20:24:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Funny Girl (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Feldstein, Beanie"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10beanie-broadway/10beanie-broadway-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beanie Feldstein in the musical “Funny Girl” at the August Wilson Theater in Manhattan.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10beanie-broadway/10beanie-broadway-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beanie Feldstein in the musical “Funny Girl” at the August Wilson Theater in Manhattan.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/10beanie-broadway/10beanie-broadway-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beanie Feldstein in the musical “Funny Girl” at the August Wilson Theater in Manhattan.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3uA1c2o"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "‘Hollywood Ending,’ a Cradle-to-Jail Biography of Harvey Weinstein",
+      "abstract": "Ken Auletta looks for Weinstein’s Rosebud in this dispiriting account of the former movie mogul’s life.",
+      "url": "https://www.nytimes.com/2022/07/10/books/review-hollywood-ending-harvey-weinstein-ken-auletta.html",
+      "uri": "nyt://article/07b2cb27-c345-5b17-ad6b-11ab7d7693c3",
+      "byline": "By Alexandra Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:41:59-04:00",
+      "created_date": "2022-07-10T10:39:33-04:00",
+      "published_date": "2022-07-10T10:39:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hollywood Ending: Harvey Weinstein and the Culture of Silence (Book)",
+        "Books and Literature",
+        "Movies"
+      ],
+      "org_facet": [
+        "Miramax Films"
+      ],
+      "per_facet": [
+        "Auletta, Ken",
+        "Weinstein, Harvey"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/books/10BOOKAULETTA/10BOOKAULETTA-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1475,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/books/10BOOKAULETTA/10BOOKAULETTA-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/books/10BOOKAULETTA/10BOOKAULETTA-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3NQjS4J"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Some Surprising Good News: Bookstores Are Booming and Becoming More Diverse",
+      "abstract": "More than 300 bookstores have opened in the past couple of years — a revival that is meeting a demand for “real recommendations from real people.”",
+      "url": "https://www.nytimes.com/2022/07/10/books/bookstores-diversity-pandemic.html",
+      "uri": "nyt://article/d90b2d82-3fd4-5120-ae13-9411e6557b47",
+      "byline": "By Alexandra Alter and Elizabeth A. Harris",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:53:19-04:00",
+      "created_date": "2022-07-10T05:00:15-04:00",
+      "published_date": "2022-07-10T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Book Trade and Publishing"
+      ],
+      "org_facet": [
+        "American Booksellers Assn",
+        "BookScan"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Chinatown (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/books/10bookstores-promo/10bookstores-promo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 700,
+          "width": 1050,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Yu was certain that a bookstore “focused on Asian American and immigrant stories” was just what Chinatown needed.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/books/10bookstores-promo/10bookstores-promo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Yu was certain that a bookstore “focused on Asian American and immigrant stories” was just what Chinatown needed.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/books/10bookstores-promo/10bookstores-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucy Yu was certain that a bookstore “focused on Asian American and immigrant stories” was just what Chinatown needed.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IsNLXC"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "When a Professor Trades the Academy for an Art Career of His Own",
+      "abstract": "For Thomas Woodruff, retirement from teaching offered the very thing he’d been trying to instill in his students: artistic freedom.",
+      "url": "https://www.nytimes.com/2022/07/09/t-magazine/thomas-woodruff-art.html",
+      "uri": "nyt://article/74bc832f-e405-5540-b507-0f81d341ac08",
+      "byline": "By Adriane Quinlan",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T12:41:45-04:00",
+      "created_date": "2022-07-09T09:00:12-04:00",
+      "published_date": "2022-07-09T09:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "T’s Art Issue",
+      "des_facet": [
+        "Art",
+        "Content Type: Personal Profile",
+        "Colleges and Universities",
+        "Graphic Novels"
+      ],
+      "org_facet": [
+        "School of Visual Arts"
+      ],
+      "per_facet": [
+        "Woodruff, Thomas (1957- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/07/t-magazine/art/7tmag-Woodruff-slide-I6VU/7tmag-Woodruff-slide-I6VU-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the top of the stairs into Woodruff’s studio in Germantown, N.Y., a pastel of a brontosaurus leans against a credenza — a homage to the Hollywood Cemetery, complete with a portrait of Elsa Lanchester in “The Bride of Frankenstein” (1935) — by the artist Shawn Peterson.",
+          "copyright": "Nicholas Calcott"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/07/t-magazine/art/7tmag-Woodruff-slide-I6VU/7tmag-Woodruff-slide-I6VU-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the top of the stairs into Woodruff’s studio in Germantown, N.Y., a pastel of a brontosaurus leans against a credenza — a homage to the Hollywood Cemetery, complete with a portrait of Elsa Lanchester in “The Bride of Frankenstein” (1935) — by the artist Shawn Peterson.",
+          "copyright": "Nicholas Calcott"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/07/t-magazine/art/7tmag-Woodruff-slide-I6VU/7tmag-Woodruff-slide-I6VU-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the top of the stairs into Woodruff’s studio in Germantown, N.Y., a pastel of a brontosaurus leans against a credenza — a homage to the Hollywood Cemetery, complete with a portrait of Elsa Lanchester in “The Bride of Frankenstein” (1935) — by the artist Shawn Peterson.",
+          "copyright": "Nicholas Calcott"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PdV8En"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "The New New Haven",
+      "abstract": "Unexpectedly, the Connecticut city has emerged, both because of and despite its association with Yale, as an affordable and dynamic home for artists of all kinds.",
+      "url": "https://www.nytimes.com/2022/07/09/t-magazine/new-haven-artists.html",
+      "uri": "nyt://article/45e0b1e1-2be8-584e-9b1b-c59dafdec09c",
+      "byline": "By Suleman Anaya",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T08:00:14-04:00",
+      "created_date": "2022-07-09T08:00:14-04:00",
+      "published_date": "2022-07-09T08:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "T’s Art Issue",
+      "des_facet": [
+        "Art",
+        "Culture (Arts)"
+      ],
+      "org_facet": [
+        "Yale University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New Haven (Conn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/t-magazine/09tmag-new-haven-slide-UE2X/09tmag-new-haven-slide-UE2X-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jason Price (left) and Titus Kaphar in front of a former ice cream factory that is now part of NXTHVN in New Haven, Conn. The architect Deborah Berke expanded two existing buildings into a state-of-the-art arts center that includes studios, event spaces and a gallery.",
+          "copyright": "Arielle Gray"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/t-magazine/09tmag-new-haven-slide-UE2X/09tmag-new-haven-slide-UE2X-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jason Price (left) and Titus Kaphar in front of a former ice cream factory that is now part of NXTHVN in New Haven, Conn. The architect Deborah Berke expanded two existing buildings into a state-of-the-art arts center that includes studios, event spaces and a gallery.",
+          "copyright": "Arielle Gray"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/t-magazine/09tmag-new-haven-slide-UE2X/09tmag-new-haven-slide-UE2X-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jason Price (left) and Titus Kaphar in front of a former ice cream factory that is now part of NXTHVN in New Haven, Conn. The architect Deborah Berke expanded two existing buildings into a state-of-the-art arts center that includes studios, event spaces and a gallery.",
+          "copyright": "Arielle Gray"
+        }
+      ],
+      "short_url": "https://nyti.ms/3yTOE8D"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Invisibility, a Hippo and Antiques",
+      "abstract": "Our critic recommends old and new books.",
+      "url": "https://www.nytimes.com/2022/07/09/books/molly-young-book-recommendations.html",
+      "uri": "nyt://article/eb4c679a-5786-5462-bf05-c5b8d55ef912",
+      "byline": "By Molly Young",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T07:50:03-04:00",
+      "created_date": "2022-07-09T07:50:03-04:00",
+      "published_date": "2022-07-09T07:50:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1901,
+          "width": 1576,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Lezende jongen,” by Frans Hals",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3uzRjlb"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Tony Sirico, an Eccentric Gangster on ‘The Sopranos,’ Dies at 79",
+      "abstract": "A familiar face in Woody Allen movies, he became widely known for his portrayal of Paulie Walnuts on the hit HBO series.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/television/tony-sirico-dead.html",
+      "uri": "nyt://article/b69f92c8-3264-5536-b6ff-072efd72a2f6",
+      "byline": "By Anita Gates",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T12:34:24-04:00",
+      "created_date": "2022-07-08T21:43:56-04:00",
+      "published_date": "2022-07-08T21:43:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Actors and Actresses",
+        "Television",
+        "The Sopranos (TV Program)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sirico, Tony"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/08sirico-1/08sirico-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1122,
+          "width": 1682,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Sirico as the gangster Paulie Walnuts on the HBO series “The Sopranos.”",
+          "copyright": "Barry Wetcher/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/08sirico-1/08sirico-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Sirico as the gangster Paulie Walnuts on the HBO series “The Sopranos.”",
+          "copyright": "Barry Wetcher/HBO"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/10/multimedia/08sirico-1/08sirico-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tony Sirico as the gangster Paulie Walnuts on the HBO series “The Sopranos.”",
+          "copyright": "Barry Wetcher/HBO"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NVC5h0"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Susie Steiner, Author of Acclaimed British Crime Novels, Dies at 51",
+      "abstract": "Her books found a worldwide audience, but while she wrote them she had to contend with the loss of her sight and the diagnosis of a brain tumor.",
+      "url": "https://www.nytimes.com/2022/07/08/books/susie-steiner-dead.html",
+      "uri": "nyt://article/96f96cec-72cd-58db-b59e-0bf2a84b7ce7",
+      "byline": "By Alex Williams",
+      "item_type": "Article",
+      "updated_date": "2022-07-08T21:21:11-04:00",
+      "created_date": "2022-07-08T19:31:46-04:00",
+      "published_date": "2022-07-08T19:31:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Writing and Writers",
+        "Books and Literature",
+        "Missing, Presumed (Book)",
+        "Brain Cancer",
+        "Blindness"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Steiner, Susie (Author)"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1200,
+          "width": 832,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Susie Steiner, whose Manon Bradshaw detective novels became popular both in England and abroad, in an undated photo.",
+          "copyright": "Jonathan Ring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Susie Steiner, whose Manon Bradshaw detective novels became popular both in England and abroad, in an undated photo.",
+          "copyright": "Jonathan Ring"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/multimedia/08Steiner1/08Steiner1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Susie Steiner, whose Manon Bradshaw detective novels became popular both in England and abroad, in an undated photo.",
+          "copyright": "Jonathan Ring"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Rwizei"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "At BroadwayCon, Hillary Clinton Celebrates Women in the Theater",
+      "abstract": "The former secretary of state moderated a discussion on Friday afternoon about successes and barriers for women working in the theater.",
+      "url": "https://www.nytimes.com/2022/07/08/theater/broadwaycon-hillary-clinton.html",
+      "uri": "nyt://article/7d78eaee-0c8b-5db1-bda0-d5838f3e64d1",
+      "byline": "By Sarah Bahr",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:45:43-04:00",
+      "created_date": "2022-07-08T19:20:15-04:00",
+      "published_date": "2022-07-08T19:20:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Women and Girls",
+        "Work-Life Balance",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Clinton, Hillary Rodham",
+        "LaChanze",
+        "Murphy, Donna",
+        "White, Julie",
+        "Williams, Vanessa"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08broadwaycon-clinton/merlin_209766774_4b3f383e-4750-4653-8941-40cb4892af5a-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton, center, with, from left, LaChanze, Donna Murphy and Vanessa Williams at the Manhattan Center on Friday afternoon.",
+          "copyright": "Michael Loccisano/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08broadwaycon-clinton/merlin_209766774_4b3f383e-4750-4653-8941-40cb4892af5a-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton, center, with, from left, LaChanze, Donna Murphy and Vanessa Williams at the Manhattan Center on Friday afternoon.",
+          "copyright": "Michael Loccisano/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08broadwaycon-clinton/08broadwaycon-clinton-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton, center, with, from left, LaChanze, Donna Murphy and Vanessa Williams at the Manhattan Center on Friday afternoon.",
+          "copyright": "Michael Loccisano/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PwmN3R"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Remembering James Caan and His Potent Mix of Swagger and Delicacy",
+      "abstract": "“The Godfather” helped open up a range of roles for the actor that allowed him to play against type and expectation in wonderful ways.",
+      "url": "https://www.nytimes.com/2022/07/08/movies/james-caan-appreciation.html",
+      "uri": "nyt://article/ddea887a-5aa8-5d76-864e-8dd5509c218f",
+      "byline": "By Manohla Dargis",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:42:56-04:00",
+      "created_date": "2022-07-08T18:03:58-04:00",
+      "published_date": "2022-07-08T18:03:58-04:00",
+      "material_type_facet": "",
+      "kicker": "An Appraisal",
+      "des_facet": [
+        "Movies",
+        "Actors and Actresses",
+        "Brian's Song (Movie)",
+        "El Dorado (Movie)",
+        "The Godfather (Movie)",
+        "Thief (Movie)",
+        "Content Type: Personal Profile",
+        "The Rain People (Movie)",
+        "Cinderella Liberty (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Caan, James"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08caan-appraisal-lead/08caan-appraisal-lead-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Caan’s career may have risen and fallen, but he brought a greatness to it overall.",
+          "copyright": "Jack Robinson/Hulton Archive/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08caan-appraisal-lead/08caan-appraisal-lead-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Caan’s career may have risen and fallen, but he brought a greatness to it overall.",
+          "copyright": "Jack Robinson/Hulton Archive/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08caan-appraisal-lead/08caan-appraisal-lead-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Caan’s career may have risen and fallen, but he brought a greatness to it overall.",
+          "copyright": "Jack Robinson/Hulton Archive/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AJKukG"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Review: Momix’s ‘Alice’ Is a Rabbit Hole (or 22) Too Far",
+      "abstract": "Momix’s latest show, now at the Joyce Theater, is inspired by Lewis Carroll’s “Alice in Wonderland.”",
+      "url": "https://www.nytimes.com/2022/07/08/arts/dance/review-momix-alice.html",
+      "uri": "nyt://article/3c3a7c80-22fd-59ed-9f5f-deb4eddc7c2c",
+      "byline": "By Siobhan Burke",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:46:07-04:00",
+      "created_date": "2022-07-08T14:08:17-04:00",
+      "published_date": "2022-07-08T14:08:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Alice (Dance)"
+      ],
+      "org_facet": [
+        "Joyce Theater",
+        "Momix Dance Troupe"
+      ],
+      "per_facet": [
+        "Pendleton, Moses"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08momix-alice1/merlin_209662269_a418f585-f7d7-4ab0-96a0-a204004ff6d5-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jade Primicias and Colton Wall in Momix’s “Alice” at the Joyce Theater.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08momix-alice1/merlin_209662269_a418f585-f7d7-4ab0-96a0-a204004ff6d5-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jade Primicias and Colton Wall in Momix’s “Alice” at the Joyce Theater.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08momix-alice1/08momix-alice1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jade Primicias and Colton Wall in Momix’s “Alice” at the Joyce Theater.",
+          "copyright": "Julieta Cervantes for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Ay7fIx"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Three Memoirs That Re-examine Challenges in Life and Identity",
+      "abstract": "Addiction, fatherhood and transgender identity in new books by Cindy House, Will Jawando and Diana Goetsch.",
+      "url": "https://www.nytimes.com/2022/07/08/books/review/mother-noise-my-seven-black-fathers-this-body-i-wore-cindy-house-will-jawando-diana-goetsch.html",
+      "uri": "nyt://article/d80b5782-f392-585c-b3da-b44b77074176",
+      "byline": "By Manuel Betancourt",
+      "item_type": "Article",
+      "updated_date": "2022-07-08T14:50:50-04:00",
+      "created_date": "2022-07-08T14:07:52-04:00",
+      "published_date": "2022-07-08T14:07:52-04:00",
+      "material_type_facet": "",
+      "kicker": "The Shortlist",
+      "des_facet": [
+        "Books and Literature",
+        "Drug Abuse and Traffic",
+        "Parenting",
+        "Black People",
+        "Poetry and Poets",
+        "Transgender and Transsexuals",
+        "Content Type: Personal Profile",
+        "Mother Noise (Book)",
+        "My Seven Black Fathers: A Young Activist's Memoir of Race, Family, and the Mentors Who Made Him Whole (Book)",
+        "This Body I Wore (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "House, Cindy",
+        "Jawando, William O",
+        "Goetsch, Diana"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/17/books/review/17Shortlist-BETANCOURT/17Shortlist-BETANCOURT-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1433,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Gall"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/17/books/review/17Shortlist-BETANCOURT/17Shortlist-BETANCOURT-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Gall"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/17/books/review/17Shortlist-BETANCOURT/17Shortlist-BETANCOURT-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "John Gall"
+        }
+      ],
+      "short_url": "https://nyti.ms/3uzIVlG"
+    },
+    {
+      "section": "arts",
+      "subsection": "dance",
+      "title": "At Ballet Theater, Visions of the Natural World and ‘Swan’ Debuts",
+      "abstract": "Catherine Hurlin makes a major debut as Odette-Odile and the company presents the New York premiere of a mystical work by Alonzo King.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/dance/american-ballet-theater-swan-lake-alonzo-king.html",
+      "uri": "nyt://article/51cbc13f-66d6-59ff-a237-362ee38d2c08",
+      "byline": "By Gia Kourlas",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T03:49:27-04:00",
+      "created_date": "2022-07-08T13:43:39-04:00",
+      "published_date": "2022-07-08T13:43:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s notebook",
+      "des_facet": [
+        "Dancing",
+        "Swan Lake (Ballet)",
+        "Single Eye (Ballet)",
+        "Theme and Variations (Ballet)"
+      ],
+      "org_facet": [
+        "American Ballet Theater"
+      ],
+      "per_facet": [
+        "Brandt, Skylar",
+        "King, Alonzo",
+        "Hurlin, Catherine (1996- )",
+        "Royal, Calvin III",
+        "Shevchenko, Christine",
+        "Teuscher, Devon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08abt-notebook3/merlin_209725011_33871701-2449-4c41-8b18-851cce03bcaa-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1502,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Calvin Royal III in Alonzo King’s “Single Eye,” which had its New York debut on Thursday.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08abt-notebook3/08abt-notebook3-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Calvin Royal III in Alonzo King’s “Single Eye,” which had its New York debut on Thursday.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08abt-notebook3/08abt-notebook3-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Calvin Royal III in Alonzo King’s “Single Eye,” which had its New York debut on Thursday.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PcTYch"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "‘He Presented Another Path’: Actors and Directors on Peter Brook",
+      "abstract": "Patrick Stewart, Tarell Alvin McCraney, Tina Landau and Tim Robbins on being challenged and inspired by the legendary theater maker, who died last weekend.",
+      "url": "https://www.nytimes.com/2022/07/08/theater/peter-brook-directors-influence.html",
+      "uri": "nyt://article/aec22f59-8088-5528-9eb9-411fe034d55e",
+      "byline": "By Laura Collins-Hughes",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T03:47:14-04:00",
+      "created_date": "2022-07-08T13:38:14-04:00",
+      "published_date": "2022-07-08T13:38:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Content Type: Personal Profile",
+        "Actors and Actresses"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Brook, Peter",
+        "Stewart, Patrick",
+        "Falls, Robert",
+        "Landau, Tina",
+        "McCraney, Tarell Alvin",
+        "Robbins, Tim",
+        "Hopkins, Karen Brooks",
+        "Horowitz, Jeffrey",
+        "Mosher, Gregory",
+        "Arbus, Arin",
+        "Hunter, Kathryn",
+        "Magni, Marcello"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08brook-reaction/08brook-reaction-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcello Magni and Kathryn Hunter in “Why?,” a play co-written and co-directed by Peter Brook at Theater for a New Audience in 2019. “He allowed us a journey,” Magni said.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08brook-reaction/08brook-reaction-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcello Magni and Kathryn Hunter in “Why?,” a play co-written and co-directed by Peter Brook at Theater for a New Audience in 2019. “He allowed us a journey,” Magni said.",
+          "copyright": "Emon Hassan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08brook-reaction/08brook-reaction-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marcello Magni and Kathryn Hunter in “Why?,” a play co-written and co-directed by Peter Brook at Theater for a New Audience in 2019. “He allowed us a journey,” Magni said.",
+          "copyright": "Emon Hassan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OSwzgD"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Grime Transformed British Music. A New Exhibition Traces How.",
+      "abstract": "“Grime Stories: From the Corner to the Mainstream” at the Museum of London highlights the 20-year-old history and far-reaching impact of the British rap genre.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/music/grime-london-exhibition.html",
+      "uri": "nyt://article/dd788ba5-29c3-5fa9-ab94-cfd7106fbca5",
+      "byline": "By Desiree Ibekwe",
+      "item_type": "Article",
+      "updated_date": "2022-07-08T15:18:09-04:00",
+      "created_date": "2022-07-08T13:16:53-04:00",
+      "published_date": "2022-07-08T13:16:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Rap and Hip-Hop",
+        "Grime Stories: From the Corner to the Mainstream (Exhibit)"
+      ],
+      "org_facet": [
+        "Museum of London"
+      ],
+      "per_facet": [
+        "Keefe, Roony (RiskyRoadz)"
+      ],
+      "geo_facet": [
+        "Great Britain",
+        "London (England)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08grime-1/08grime-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jammer, a pioneering grime M.C., at “Grime Stories: From the Corner to the Mainstream,” a new exhibition exploring the history of the British rap genre in East London.",
+          "copyright": "Richard Stroud/Museum of London"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08grime-1/08grime-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jammer, a pioneering grime M.C., at “Grime Stories: From the Corner to the Mainstream,” a new exhibition exploring the history of the British rap genre in East London.",
+          "copyright": "Richard Stroud/Museum of London"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08grime-1/08grime-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jammer, a pioneering grime M.C., at “Grime Stories: From the Corner to the Mainstream,” a new exhibition exploring the history of the British rap genre in East London.",
+          "copyright": "Richard Stroud/Museum of London"
+        }
+      ],
+      "short_url": "https://nyti.ms/3AAMcVv"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "Larry Storch, Comic Actor Best Known for ‘F Troop,’ Dies at 99",
+      "abstract": "His well-honed comic timing, and the mimicry skills he had developed in nightclubs, served him well on one of the sillier sitcoms of the 1960s.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/television/larry-storch-dead.html",
+      "uri": "nyt://article/188731c7-bf9c-543f-b7c6-3ba87e9dd7ee",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T07:31:26-04:00",
+      "created_date": "2022-07-08T12:59:47-04:00",
+      "published_date": "2022-07-08T12:59:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "F Troop (TV Program)",
+        "Television",
+        "Comedy and Humor",
+        "Actors and Actresses",
+        "Theater"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Storch, Larry"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/obituaries/08Storch1-sub/08Storch1-sub-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Storch had a long career on the stage and screen, but his other work was dwarfed by the impression he made on the sitcom “F Troop.”",
+          "copyright": "ABC Photo Archives/Disney via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/obituaries/08Storch1-sub/08Storch1-sub-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Storch had a long career on the stage and screen, but his other work was dwarfed by the impression he made on the sitcom “F Troop.”",
+          "copyright": "ABC Photo Archives/Disney via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/obituaries/08Storch1-sub/08Storch1-sub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Larry Storch had a long career on the stage and screen, but his other work was dwarfed by the impression he made on the sitcom “F Troop.”",
+          "copyright": "ABC Photo Archives/Disney via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Imk5eR"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Director of the Guggenheim to Step Down",
+      "abstract": "Richard Armstrong, whose 14-year tenure was shaped by staff complaints of racism, labor issues and a public outcry over a planned offshoot in Abu Dhabi, said he will leave the museum in 2023.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/design/director-guggenheim-richard-armstrong-steps-down.html",
+      "uri": "nyt://article/98513191-1a86-5864-a1c2-e8b85bb903ce",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T03:50:24-04:00",
+      "created_date": "2022-07-08T12:55:16-04:00",
+      "published_date": "2022-07-08T12:55:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Museums"
+      ],
+      "org_facet": [
+        "Guggenheim, Solomon R, Museum"
+      ],
+      "per_facet": [
+        "Armstrong, Richard (1949- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08guggenheim-director/08guggenheim-director-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The board is rejuvenated, and active — it’s a good moment,” Richard Armstrong told The Financial Times of his stepping down.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08guggenheim-director/08guggenheim-director-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The board is rejuvenated, and active — it’s a good moment,” Richard Armstrong told The Financial Times of his stepping down.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08guggenheim-director/08guggenheim-director-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The board is rejuvenated, and active — it’s a good moment,” Richard Armstrong told The Financial Times of his stepping down.",
+          "copyright": "Richard Perry/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3yrso4j"
+    },
+    {
+      "section": "arts",
+      "subsection": "television",
+      "title": "‘Trigger Point’ Review: Pure Pressure à la ‘Line of Duty’",
+      "abstract": "A new Peacock series about a London bomb squad bears the mark of its showrunner, Jed Mercurio, Britain’s master of the crime melodrama.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/television/trigger-point-review.html",
+      "uri": "nyt://article/c663d36c-60a2-5665-a64c-445b424f6d7e",
+      "byline": "By Mike Hale",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T22:44:20-04:00",
+      "created_date": "2022-07-08T12:40:11-04:00",
+      "published_date": "2022-07-08T12:40:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Trigger Point (TV Program)"
+      ],
+      "org_facet": [
+        "Peacock Services"
+      ],
+      "per_facet": [
+        "Mercurio, Jed",
+        "McClure, Vicky (1983- )",
+        "Brierley, Daniel"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08trigger/08trigger-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Lester and Vicky McClure are crack bomb-disposal specialists in “Trigger Point,” a British thriller arriving Friday on Peacock.",
+          "copyright": "Peacock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08trigger/08trigger-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Lester and Vicky McClure are crack bomb-disposal specialists in “Trigger Point,” a British thriller arriving Friday on Peacock.",
+          "copyright": "Peacock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/arts/08trigger/08trigger-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Adrian Lester and Vicky McClure are crack bomb-disposal specialists in “Trigger Point,” a British thriller arriving Friday on Peacock.",
+          "copyright": "Peacock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bSRYHL"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "At the Opera, Humans Bear Witness to Atrocity, or Ignore It",
+      "abstract": "Whether in works by Mahler, Mozart or Rossini, directors at the Aix-en-Provence Festival in France evoke mass death and refugee crises.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/music/aix-festival-opera.html",
+      "uri": "nyt://article/8672bb53-9174-56cc-b3c9-3789a3dca9a3",
+      "byline": "By Zachary Woolfe",
+      "item_type": "Article",
+      "updated_date": "2022-07-11T09:51:11-04:00",
+      "created_date": "2022-07-08T12:13:02-04:00",
+      "published_date": "2022-07-08T12:13:02-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic’s Notebook",
+      "des_facet": [
+        "Opera",
+        "Resurrection (Musical Work)",
+        "Salome (Opera)",
+        "Idomeneo (Opera)",
+        "Moise et Pharaon (Opera)"
+      ],
+      "org_facet": [
+        "Orchestre de Paris",
+        "Opera National de Lyon"
+      ],
+      "per_facet": [
+        "Castellucci, Romeo",
+        "Salonen, Esa-Pekka",
+        "Dreisig, Elsa (1991- )",
+        "Pichon, Raphael",
+        "Kratzer, Tobias"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08aix-opening/merlin_209686800_06c08211-777d-47ce-a41b-668d00ae5310-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Romeo Castellucci’s staging of Mahler’s “Resurrection” Symphony at the Aix-en-Provence Festival in France is a prolonged exhumation of bodies from a shallow mass grave.",
+          "copyright": "Monika Rittershaus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08aix-opening/merlin_209686800_06c08211-777d-47ce-a41b-668d00ae5310-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Romeo Castellucci’s staging of Mahler’s “Resurrection” Symphony at the Aix-en-Provence Festival in France is a prolonged exhumation of bodies from a shallow mass grave.",
+          "copyright": "Monika Rittershaus"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08aix-opening/08aix-opening-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Romeo Castellucci’s staging of Mahler’s “Resurrection” Symphony at the Aix-en-Provence Festival in France is a prolonged exhumation of bodies from a shallow mass grave.",
+          "copyright": "Monika Rittershaus"
+        }
+      ],
+      "short_url": "https://nyti.ms/3bVzw1k"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "The 1975’s Chamber-Pop Confessions, and 8 More New Songs",
+      "abstract": "Hear new tracks from Alvvays, Tyshawn Sorey, Killer Mike and others.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/music/playlist-1975-killer-mike-alvvays.html",
+      "uri": "nyt://article/e3cbc62d-1ebf-5b58-a552-9103bf0d5705",
+      "byline": "By Jon Pareles, Giovanni Russonello and Lindsay Zoladz",
+      "item_type": "Article",
+      "updated_date": "2022-07-08T11:58:51-04:00",
+      "created_date": "2022-07-08T11:48:24-04:00",
+      "published_date": "2022-07-08T11:48:24-04:00",
+      "material_type_facet": "",
+      "kicker": "The Playlist",
+      "des_facet": [
+        "Pop and Rock Music",
+        "Rhythm and Blues (Music)",
+        "Folk Music",
+        "Jazz",
+        "Rap and Hip-Hop"
+      ],
+      "org_facet": [
+        "1975, The (Music Group)",
+        "Alvvays (Music Group)",
+        "Flo (Music Group)",
+        "Ghetto Kumbe (Music Group)"
+      ],
+      "per_facet": [
+        "Baker, Julien (1995- )",
+        "Straus, Mikaela (King Princess)",
+        "Killer Mike",
+        "Williams, Jeffery Lamar (Young Thug)",
+        "Anderson .Paak",
+        "Domi (2000- )",
+        "Beck, JD (2003- )",
+        "Sorey, Tyshawn"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08playlist/08playlist-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 728,
+          "width": 1040,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 1975 return with “Part of the Band,” the first song from an album due in October, “Being Funny in a Foreign Language.” ",
+          "copyright": "Samuel Bradley"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08playlist/08playlist-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 1975 return with “Part of the Band,” the first song from an album due in October, “Being Funny in a Foreign Language.” ",
+          "copyright": "Samuel Bradley"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08playlist/08playlist-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 1975 return with “Part of the Band,” the first song from an album due in October, “Being Funny in a Foreign Language.” ",
+          "copyright": "Samuel Bradley"
+        }
+      ],
+      "short_url": "https://nyti.ms/3yPrEHx"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Five Science Fiction Movies to Stream Now",
+      "abstract": "This month’s picks include a romantic do-over, two-minute time travelers and unwanted party guests.",
+      "url": "https://www.nytimes.com/2022/07/08/movies/science-fiction-movies-streaming.html",
+      "uri": "nyt://article/42c57c80-f748-5033-86f7-d3ee08872673",
+      "byline": "By Elisabeth Vincentelli",
+      "item_type": "Article",
+      "updated_date": "2022-07-08T17:06:58-04:00",
+      "created_date": "2022-07-08T11:00:10-04:00",
+      "published_date": "2022-07-08T11:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Science Fiction",
+        "Press Play (Movie)",
+        "An Ideal Host (Movie)",
+        "Guidance (2021) (Movie)",
+        "Beyond the Infinite Two Minutes (Movie)",
+        "The Adam Project (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08streaming-scifi1/merlin_200683383_6f71fd8a-8358-47ef-a604-23b07624cba9-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Riko Fujitani, left, and Kazunari Tosa in “Beyond the Infinite Two Minutes,” directed by Junta Yamaguchi.",
+          "copyright": "Indiecan Entertainment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08streaming-scifi1/08streaming-scifi1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Riko Fujitani, left, and Kazunari Tosa in “Beyond the Infinite Two Minutes,” directed by Junta Yamaguchi.",
+          "copyright": "Indiecan Entertainment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/08/arts/08streaming-scifi1/08streaming-scifi1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Riko Fujitani, left, and Kazunari Tosa in “Beyond the Infinite Two Minutes,” directed by Junta Yamaguchi.",
+          "copyright": "Indiecan Entertainment"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OS1dqd"
+    },
+    {
+      "section": "arts",
+      "subsection": "music",
+      "title": "Kenward Elmslie, Poet and Librettist, Dies at 93",
+      "abstract": "He collaborated on operas with Jack Beeson and Ned Rorem and published numerous poetry books. Late in life, he was victimized by theft.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/music/kenward-elmslie-dead.html",
+      "uri": "nyt://article/1d20a23b-b37a-5e25-a43f-8b9baa38cd12",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2022-07-10T23:33:26-04:00",
+      "created_date": "2022-07-08T10:47:58-04:00",
+      "published_date": "2022-07-08T10:47:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Theater",
+        "Poetry and Poets",
+        "Writing and Writers",
+        "Books and Literature",
+        "Opera",
+        "Lizzie Borden (Opera)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Elmslie, Kenward"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/07Elmslie-sub/07Elmslie-sub-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1575,
+          "width": 1050,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenward Elmslie in 1975. He was plugged into the New York art and literary scene and wrote opera librettos, songs and poetry.",
+          "copyright": "Gerard Malanga"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/07Elmslie-sub/07Elmslie-sub-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenward Elmslie in 1975. He was plugged into the New York art and literary scene and wrote opera librettos, songs and poetry.",
+          "copyright": "Gerard Malanga"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/11/multimedia/07Elmslie-sub/07Elmslie-sub-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenward Elmslie in 1975. He was plugged into the New York art and literary scene and wrote opera librettos, songs and poetry.",
+          "copyright": "Gerard Malanga"
+        }
+      ],
+      "short_url": "https://nyti.ms/3uCoX9R"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Zawe Ashton Isn’t Here to Be a Victim of Your Projections",
+      "abstract": "The actress was never offered a period piece until “Mr. Malcolm’s List.” She was given 24 hours to decide whether to do it. Now she’s earning raves.",
+      "url": "https://www.nytimes.com/2022/07/08/movies/zawe-ashton-mr-malcolms-list.html",
+      "uri": "nyt://article/fc0297dc-ebe6-5b37-9113-9c977a0f5c27",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2022-07-09T03:43:20-04:00",
+      "created_date": "2022-07-08T10:00:11-04:00",
+      "published_date": "2022-07-08T10:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Theater",
+        "Actors and Actresses",
+        "Content Type: Personal Profile",
+        "Mr. Malcolm's List (Movie)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ashton, Zawe",
+        "DaCosta, Nia",
+        "Hiddleston, Tom"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08zawe-ashton1/merlin_209682744_e68c4921-bc46-49fa-ad9f-bd91e64c5590-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The reality is you can be acting for a long time and not be called to that table,” Zawe Ashton said of the lack of diversity in period dramas.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08zawe-ashton1/08zawe-ashton1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The reality is you can be acting for a long time and not be called to that table,” Zawe Ashton said of the lack of diversity in period dramas.",
+          "copyright": "Heather Sten for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/07/09/arts/08zawe-ashton1/08zawe-ashton1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“The reality is you can be acting for a long time and not be called to that table,” Zawe Ashton said of the lack of diversity in period dramas.",
+          "copyright": "Heather Sten for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Io8vj7"
+    }
+  ]
+}
