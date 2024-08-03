@@ -12,24 +12,7 @@
 // class _MyHomePageState extends State<MyHomePage> {
 //   @override
 //   Widget build(BuildContext context) {
-//     return
-//         //   Scaffold(
-//         //   appBar: AppBar(
-//         //     title: Text("Linkify"),
-//         //   ),
-//         //   body: Container(
-//         //     child: Center(
-//         //         child: Linkify(
-//         //       text: "Made by https://cretezy.com",
-//         //       options: LinkifyOptions(humanize: true),
-//         //       onOpen: (link) async {
-//         //         await launchUrl(Uri.parse(link.url));
-//         //       },
-//         //     )),
-//         //   ),
-//         // );
-//
-//         Scaffold(
+//     return Scaffold(
 //       appBar: AppBar(
 //         title: Text("Working with API Example 1"),
 //       ),
@@ -40,23 +23,25 @@
 //             var data = snapshot.data!;
 //             return Container(
 //               child: Column(
+//                 crossAxisAlignment: CrossAxisAlignment.center,
+//                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //                 children: [
 //                   Row(
-//                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+//                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //                     children: [
 //                       Text("Name"),
 //                       Text(data.name),
 //                     ],
 //                   ),
 //                   Row(
-//                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+//                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //                     children: [
 //                       Text("Age"),
 //                       Text(data.age.toString()),
 //                     ],
 //                   ),
 //                   Row(
-//                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+//                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //                     children: [
 //                       Text("Count"),
 //                       Text(data.count.toString()),

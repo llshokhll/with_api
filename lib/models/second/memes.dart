@@ -6,6 +6,7 @@ class Memes {
     required this.url,
     required this.boxCount,
     required this.id,
+    required this.captions,
   });
 
   final String id;
@@ -14,6 +15,7 @@ class Memes {
   final int width;
   final int height;
   final int boxCount;
+  final int captions;
 
   factory Memes.fromJson(Map<String, Object?> json) => Memes(
         name: json["name"] as String? ?? "",
@@ -22,5 +24,6 @@ class Memes {
         width: json["width"] as int? ?? 0,
         height: json["height"] as int? ?? 0,
         boxCount: json["box_count"] as int? ?? 0,
+        captions: json["captions"] as int? ?? 0,
       );
 }

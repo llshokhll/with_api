@@ -48,7 +48,6 @@ class Repository {
           "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=mD46rKtYMNXAYpzZSyvAXK3u2ANtQd4A"));
       if (response.statusCode >= 200 && response.statusCode < 300) {
         var myDecodedJSON = jsonDecode(response.body);
-        // print(myDecodedJSON["results"][0]["des_facet"][0]);
         return TopLevel.fromJson(myDecodedJSON);
       } else
         throw Exception();
