@@ -42,9 +42,9 @@ class _MyHomePageState extends State<MyHomePage> {
                       return Container(
                         margin: EdgeInsets.all(10),
                         padding:
-                            EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                            EdgeInsets.symmetric(horizontal: 22, vertical: 20),
                         decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(16),
+                            borderRadius: BorderRadius.circular(20),
                             color: Colors.white,
                             boxShadow: [
                               BoxShadow(
@@ -57,9 +57,14 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Column(
                           children: [
                             SizedBox(
-                                width: MediaQuery.of(context).size.width,
-                                height: 400,
-                                child: Image.network(memes[index].url)),
+                              width: MediaQuery.of(context).size.width,
+                              child: Image.network(
+                                memes[index].url,
+                              ),
+                            ),
+                            const SizedBox(
+                              height: 20,
+                            ),
                             Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
